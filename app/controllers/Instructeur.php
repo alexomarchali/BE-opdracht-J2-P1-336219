@@ -83,4 +83,4 @@ class Instructeur extends BaseController
         ];
         $this->view('Instructeur/overzichtVoertuigen', $data);
     }
-} 
+}

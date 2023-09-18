@@ -37,7 +37,7 @@
         <th>Kenteken</th>
         <th>Bouwjaar</th>
         <th>Brandstof</th>
-        <th>Rijbewijscategorie</th>
+        <th>Rijbewijscategorie</th> 
         <th>Wijzigen</th>
     </thead>
     <tbody>
