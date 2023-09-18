@@ -70,7 +70,7 @@ class Instructeur extends BaseController
             <td>$voertuig->Kenteken</td>
             <td>$date_formatted</td>
             <td>$voertuig->Brandstof</td>            
-            <td>$voertuig->Rijbewijscategorie</td>
+            <td>$voertuig->Rijbewijscategorie</td> 
           </tr>";
         }
 
