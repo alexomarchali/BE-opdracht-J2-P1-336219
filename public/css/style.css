@@ -1,0 +1,22 @@
+.styling {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+
+h3,h2 {
+    text-align: center;
+}
+
+
+tr > td {
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 1%;
+    font-size: 18px;
+}
+
+#button-style{
+    width: 10000;
+};
