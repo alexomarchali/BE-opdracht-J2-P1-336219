@@ -126,7 +126,7 @@
           <input type="text" name="text_input_4" />
         </label>
 
-        <!-- Submit Button -->
+
         <input type="submit" value="Wijzig" />
       </fieldset>
     </form>
