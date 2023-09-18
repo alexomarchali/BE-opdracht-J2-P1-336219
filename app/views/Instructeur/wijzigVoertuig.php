@@ -97,8 +97,7 @@
           Type:
           <input type="text" name="text_input_3" required />
         </label>
-
-        <!-- Year Input -->
+        
         <label>
           Bouwjaar:
           <input type="date" name="date" />
