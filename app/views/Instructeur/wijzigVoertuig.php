@@ -59,7 +59,7 @@
       <fieldset>
         <legend>Instrcuteur wijzigen</legend>
 
-        <!-- Select Option 1 -->
+        
         <label>
           Instructeur:
           <div class="instructeur-options">
