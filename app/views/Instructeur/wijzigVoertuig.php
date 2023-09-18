@@ -81,7 +81,7 @@
           </div>
         </label>
 
-        <!-- Select Option 2 -->
+       
         <label>
           Type voertuig:
           <select name="select_option_2">
@@ -92,7 +92,7 @@
           </select>
         </label>
 
-        <!-- Text Input 3 -->
+        
         <label>
           Type:
           <input type="text" name="text_input_3" required />
