@@ -120,7 +120,7 @@
           >
         </label>
 
-        <!-- Text Input 4 -->
+
         <label>
           Kenteken:
           <input type="text" name="text_input_4" />
