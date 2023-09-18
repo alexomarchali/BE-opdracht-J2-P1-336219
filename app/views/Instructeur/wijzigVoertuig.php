@@ -97,13 +97,13 @@
           Type:
           <input type="text" name="text_input_3" required />
         </label>
-        
+
         <label>
           Bouwjaar:
           <input type="date" name="date" />
         </label>
 
-        <!-- Radio Options for Brandstof -->
+
         <label>
           Brandstof:
           <label
