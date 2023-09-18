@@ -10,4 +10,4 @@ class Homepage extends BaseController
     
         $this->view('Homepage/index', $data);
     }
-}
+} 
