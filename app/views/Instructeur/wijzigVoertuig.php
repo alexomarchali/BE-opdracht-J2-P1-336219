@@ -22,7 +22,7 @@
         padding: 20px;
         margin: 20px 0;
       }
-
+ 
       input[type="text"],
       input[type="number"],
       input[type="date"],
@@ -46,7 +46,7 @@
 
       .instructeur-options {
         display: flex;
-        gap: 10px; /* Adjust the space between options */
+        gap: 10px;
       }
 
       .instructeur-options select {
